@@ -33,6 +33,7 @@ nest new ftnfb
 - On the fly our changes take effect and the server is reloaded for us
 
 #### NestJS Project Structure
+```
 ├── nest-cli.json
 ├── node_modules
 ├── package.json
@@ -49,7 +50,7 @@ nest new ftnfb
     ├── jest-e2e.json
 ├── tsconfig.build.json
 ├── tsconfig.json
-
+```
 ### App.module.ts File
 - Embraces Modularity Here is where I tell NestJS which features makes up my App bundles a couple of controllers & providers
 - I can have nested modules
