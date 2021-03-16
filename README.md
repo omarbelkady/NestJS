@@ -34,10 +34,15 @@ nest new ftnfb
 
 #### NestJS Project Structure
 ├── nest-cli.json
+
 ├── node_modules
+
 ├── package.json
+
 ├── package-lock.json
+
 ├── README.md
+
 └── src
     ├── app.controller.spec.ts
     ├── app.controller.ts       
@@ -45,9 +50,11 @@ nest new ftnfb
     ├── app.service.ts
     ├── main.ts
 └── test
-    ├── app.e2e-spec.ts
-    ├── jest-e2e.json
+	├── app.e2e-spec.ts
+	├── jest-e2e.json
+
 ├── tsconfig.build.json
+
 ├── tsconfig.json
 
 ### App.module.ts File
